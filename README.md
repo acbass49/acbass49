@@ -10,7 +10,7 @@
 #### Fast facts
 - I work full-time as a data analyst :bar_chart:
 - I am a part-time grad student studying data science :school:
-- I post the code here for my projects and posts on my blog :pencil2:
+- I post the code here for my projects and posts on my [blog](alexbass.me) :pencil2:
 
 #### Goals
 - Build a profitable SAAS :seedling:
