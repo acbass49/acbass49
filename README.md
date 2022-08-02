@@ -8,7 +8,7 @@
 - Linkedin [here](https://www.linkedin.com/in/alex-bass-4a7465161)
 
 #### Fast facts
-- I work full-time as a data analyst :bar_chart:
+- I work full-time as a data scientist :bar_chart:
 - I am a part-time grad student studying data science :school:
 - I post the code here for my projects/posts on my [blog](alexbass.me) :pencil2:
 
