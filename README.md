@@ -9,21 +9,14 @@
 
 #### Fast facts
 - I work full-time as a data scientist :bar_chart:
-- I am a part-time grad student studying data science :school:
+- I recently graduated with a master's in data science :school:
 - I post the code here for my projects/posts on my [blog](https://alexbass.me) :pencil2:
 
 #### Goals
 - Build a profitable SAAS :seedling:
 - Learn Spanish :books:
-- Move to Costa Rica :round_pushpin:
-
-#### Working on
-- Weekly data COVID email update :syringe:
-- Flight tracking web app :airplane:
 
 #### Things that keep me up at night
 - https://stackoverflow.com/questions/11308367/error-in-my-code-object-of-type-closure-is-not-subsettable
 - https://twitter.com/ChelseaParlett/status/1461173106081296388?s=20&t=pGb-BS3NJafxw4tHSh5lBA
 - https://en.wikipedia.org/wiki/Tobey_Maguire
-- https://newnormative.com/2017/12/05/5-deeply-insecure-donkey-kong-images/
-
