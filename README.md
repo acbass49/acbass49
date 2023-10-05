@@ -13,7 +13,7 @@
 - I post the code here for my projects/posts on my [blog](https://alexbass.me) :pencil2:
 
 #### Goals
-- Build a profitable SAAS :seedling:
+- Learn new coding language: Javascript :computer:
 - Learn Spanish :books:
 
 #### Things that keep me up at night
