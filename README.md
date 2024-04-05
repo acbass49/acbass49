@@ -4,7 +4,7 @@
 
 #### Quick links
 - Personal portfolio/blog site [here](https://alexbass.me) using Quarto.
-- Resume [here](https://alexbass.me/files/cv.pdf)
+- Resume [here](https://alexbass.me/files/resume.pdf)
 - Linkedin [here](https://www.linkedin.com/in/alex-bass-4a7465161)
 
 #### Fast facts
