@@ -9,7 +9,7 @@
 
 #### Fast facts
 - I work full-time as a data scientist :bar_chart:
-- I recently graduated with a master's in data science :school:
+- I graduated with a master's in data science :school:
 - I post the code here for my projects/posts on my [blog](https://alexbass.me) :pencil2:
 
 #### Goals
