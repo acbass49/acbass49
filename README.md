@@ -5,7 +5,6 @@
 #### Quick links
 - Personal portfolio/blog site [here](https://alexbass.me) using Quarto.
 - Resume [here](https://alexbass.me/files/resume.pdf)
-- Linkedin [here](https://www.linkedin.com/in/alex-bass-4a7465161)
 
 #### Fast facts
 - I work full-time as a data scientist :bar_chart:
