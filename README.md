@@ -8,7 +8,7 @@
 #### Fast facts
 - I work full-time as a data scientist :bar_chart:
 - I am the creator and maintainer of the `survey_tools` python package. Contributions welcome!
-- I upload random personal hobby projects here: e.g. 2024 US Presidential Election Model, Resume Template, Word Search Puzzle Generator
+- I upload random personal hobby projects here (e.g. 2024 US Presidential Election Model + Dashboard, DS Resume Template, Word Search Puzzle Generator)
 
 #### Goals
 - Learn new coding language: Javascript :computer:
