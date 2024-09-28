@@ -4,6 +4,7 @@
 
 #### Quick links
 - [personal site](https://alexbass.me) using Quarto.
+- Email me at hello@alexbass.me
 
 #### Fast facts
 - I work full-time as a data scientist :bar_chart:
